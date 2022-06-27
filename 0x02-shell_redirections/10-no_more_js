@@ -1,0 +1,2 @@
+#!/buin/bash
+file -name ".js" .type r -delete
